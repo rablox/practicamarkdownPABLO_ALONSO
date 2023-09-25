@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi emocionante proyecto de detección de correos electrónicos spam! En este repositorio, he desarrollado un algoritmo avanzado que puede ayudarte a determinar si un correo electrónico es spam o no. ¡Vamos a explorar lo que este proyecto tiene para ofrecer!
 
-![Detectando Spam]()
+![Detectando Spam](img/detspam)
 
 ## ¿Cómo funciona?
 
